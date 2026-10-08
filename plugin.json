@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "trpg-coauthor",
+  "version": "0.1.0",
+  "description": "中文TRPG模组共同创作：情境、调查、日常社交、NPC对白与桌上可运行性审查。",
+  "author": {
+    "name": "StarryCalamity",
+    "url": "https://github.com/StarryCalamity"
+  },
+  "repository": "https://github.com/StarryCalamity/trpg-coauthor",
+  "license": "CC-BY-SA-4.0",
+  "keywords": ["trpg", "ttrpg", "scenario-writing", "npc", "chinese", "agent-skills"]
+}

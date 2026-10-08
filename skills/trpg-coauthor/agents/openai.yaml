@@ -1,0 +1,4 @@
+interface:
+  display_name: "TRPG模组共创"
+  short_description: "通用TRPG模组共创、事件设计、NPC对白与桌上可运行性审查"
+  default_prompt: "使用 $trpg-coauthor，依据我的原稿和已确认设定，完成当前TRPG模组的设计或修改，并检查桌上可运行性。"
